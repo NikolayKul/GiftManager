@@ -1,4 +1,4 @@
-package com.presentlist;
+package com.giftlist;
 
 import android.app.Application;
 
