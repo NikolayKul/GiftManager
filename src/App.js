@@ -3,13 +3,14 @@ import {
   StyleSheet,
   View
 } from 'react-native'
-import HelloWorld from './components/HelloWorld'
+import NamedTextView from './components/NamedTextView'
 
 export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <HelloWorld />
+        <NamedTextView name="Hulio Eglesias" />
+        <NamedTextView name="Mary" />
       </View>
     )
   }
