@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "GiftList.app"
-               BlueprintName = "GiftList"
-               ReferencedContainer = "container:GiftList.xcodeproj">
+               BuildableName = "GiftManager.app"
+               BlueprintName = "GiftManager"
+               ReferencedContainer = "container:GiftManager.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "GiftListTests.xctest"
-               BlueprintName = "GiftListTests"
-               ReferencedContainer = "container:GiftList.xcodeproj">
+               BuildableName = "GiftManagerTests.xctest"
+               BlueprintName = "GiftManagerTests"
+               ReferencedContainer = "container:GiftManager.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "GiftListTests.xctest"
-               BlueprintName = "GiftListTests"
-               ReferencedContainer = "container:GiftList.xcodeproj">
+               BuildableName = "GiftManagerTests.xctest"
+               BlueprintName = "GiftManagerTests"
+               ReferencedContainer = "container:GiftManager.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "GiftList.app"
-            BlueprintName = "GiftList"
-            ReferencedContainer = "container:GiftList.xcodeproj">
+            BuildableName = "GiftManager.app"
+            BlueprintName = "GiftManager"
+            ReferencedContainer = "container:GiftManager.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "GiftList.app"
-            BlueprintName = "GiftList"
-            ReferencedContainer = "container:GiftList.xcodeproj">
+            BuildableName = "GiftManager.app"
+            BlueprintName = "GiftManager"
+            ReferencedContainer = "container:GiftManager.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "GiftList.app"
-            BlueprintName = "GiftList"
-            ReferencedContainer = "container:GiftList.xcodeproj">
+            BuildableName = "GiftManager.app"
+            BlueprintName = "GiftManager"
+            ReferencedContainer = "container:GiftManager.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
